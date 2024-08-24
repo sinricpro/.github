@@ -6,7 +6,7 @@ Please support us by buying a SinricPro subscription or joining us in the mainte
 
 ## Security
 
-If you think you found a vulnerability or other security-related bug in the Arduino CLI, please report the bug to our Security Team 🛡️ Thank you!
+If you think you found a vulnerability or other security-related bug in the SinricPro products, please report the bug to our Security Team 🛡️ Thank you!
 
 e-mail contact: support@sinric.com
 
