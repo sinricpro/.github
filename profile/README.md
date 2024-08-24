@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+## Security
 
-**Here are some ideas to get you started:**
+If you think you found a vulnerability or other security-related bug in the Arduino CLI, please report the bug to our Security Team 🛡️ Thank you!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+e-mail contact: security@sinric.com
